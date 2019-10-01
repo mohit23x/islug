@@ -1,4 +1,4 @@
 ## Slug-it
 
-A Simple package to make slugs in English and Hindi Language.
+A Simple package to make slugs in Varios Indian Langauges.
 
