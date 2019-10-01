@@ -1,0 +1,11 @@
+{
+  "name": "slugit",
+  "version": "1.0.0",
+  "description": "Make slug in english and hindi language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohit23x",
+  "license": "ISC"
+}
