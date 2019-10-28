@@ -1,7 +1,7 @@
 
 # :star: iSlug
 
-A npm package to make slugs in Engish, Hindi and varios Indian Langauges.
+A npm package to make slugs in Engish, Hindi and various Indian Langauges.
 
 [![NPM version](https://badge.fury.io/js/badge-list.svg)](https://www.npmjs.com/package/islug)
 
