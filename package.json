@@ -1,5 +1,5 @@
 {
-  "name": "slugit",
+  "name": "islug",
   "version": "0.1.0",
   "description": "Make slug in english, hindi and other languages",
   "main": "index.js",
