@@ -1,11 +1,16 @@
 {
   "name": "slugit",
-  "version": "1.0.0",
-  "description": "Make slug in english and hindi language",
+  "version": "0.1.0",
+  "description": "Make slug in english, hindi and other languages",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "slug",
+    "hindi",
+    "regional language"
+  ],
   "author": "mohit23x",
   "license": "ISC"
 }
